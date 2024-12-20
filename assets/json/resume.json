@@ -5,58 +5,35 @@
     "image": "",
     "email": "julia.berndtsson@yale.edu",
     "url": "https://berndtssonj.github.io",
-    "summary": "Swedish phycisist focused on quantum engineering.",
-    #"location": {
-    #  "address": "2712 Broadway St",
-    #  "postalCode": "CA 94115",
-    #  "city": "San Francisco",
-    #  "countryCode": "US",
-    #  "region": "California"
-    #},
-    #"profiles": [
-    #  {
-    #    "network": "Twitter",
-    #    "username": "AlbertEinstein",
-    #    "url": "https://twitter.com/AlbertEinstein"
-    #  }
-    #]
+    "summary": "Swedish phycisist focused on quantum engineering."
   },
   "work": [
     {
       "name": "Yale University",
       "position": "Graduate Research Student",
-      #"url": "https://example.com",
       "startDate": "2024-09-01",
-      #"endDate": "2029",
-      "summary": "Researching superconducting processor architecture designs, and computational methods to enchance high-precision measurement." #,
-      #"highlights": ["Relativity"]
+      "summary": "Researching superconducting processor architecture designs, and computational methods to enchance high-precision measurement." 
     },
     {
       "name": "Google Quantum AI",
       "position": "Student Researcher",
-      #"url": "https://example.com",
       "startDate": "2023-06-30",
       "endDate": "2024-06-30",
-      "summary": "Researced superconducting processor architecture designs, and implementations of simulation on quantum processors." #,
-      #"highlights": ["Relativity"]
+      "summary": "Researced superconducting processor architecture designs, and implementations of simulation on quantum processors." 
     },
     {
       "name": "Princeton Univeristy",
       "position": "Student Researcher",
-      #"url": "https://example.com",
       "startDate": "2021-06-01",
       "endDate": "2023-05-30",
-      "summary": "Researced semiconductor spin qubits with a focus on measurment techniques and processor designs." #,
-      #"highlights": ["Relativity"]
+      "summary": "Researced semiconductor spin qubits with a focus on measurment techniques and processor designs."
     },
     {
       "name": "Harvard-Smithsonian Center for Astrophysics",
       "position": "Student Researcher",
-      #"url": "https://example.com",
       "startDate": "2018-06-01",
       "endDate": "2021-10-30",
-      "summary": "Discovered the first planet candidate in an external galaxy using X-ray transits." #,
-      #"highlights": ["Relativity"]
+      "summary": "Discovered the first planet candidate in an external galaxy using X-ray transits." 
     }
   ],
   "volunteer": [
@@ -201,18 +178,6 @@
       ]
     }
   ],
-  #"references": [
-  #  {
-  #    "name": "Professor John Doe",
-  #    "icon": "fa-solid fa-laptop",
-  #    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  #  },
-  #  {
-  #    "name": "Professor John Doe",
-  #    "icon": "fa-solid fa-thumbtack",
-  #    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  #  }
-  #],
   "projects": [
     {
       "name": "Quantum Computing",
