@@ -1,36 +1,62 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Julia Berndtsson",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "julia.berndtsson@yale.edu",
+    "url": "https://berndtssonj.github.io",
+    "summary": "Swedish phycisist focused on quantum engineering.",
+    #"location": {
+    #  "address": "2712 Broadway St",
+    #  "postalCode": "CA 94115",
+    #  "city": "San Francisco",
+    #  "countryCode": "US",
+    #  "region": "California"
+    #},
+    #"profiles": [
+    #  {
+    #    "network": "Twitter",
+    #    "username": "AlbertEinstein",
+    #    "url": "https://twitter.com/AlbertEinstein"
+    #  }
+    #]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Yale University",
+      "position": "Graduate Research Student",
+      #"url": "https://example.com",
+      "startDate": "2024-09-01",
+      #"endDate": "2029",
+      "summary": "Researching superconducting processor architecture designs, and computational methods to enchance high-precision measurement." #,
+      #"highlights": ["Relativity"]
+    },
+    {
+      "name": "Google Quantum AI",
+      "position": "Student Researcher",
+      #"url": "https://example.com",
+      "startDate": "2023-06-30",
+      "endDate": "2024-06-30",
+      "summary": "Researced superconducting processor architecture designs, and implementations of simulation on quantum processors." #,
+      #"highlights": ["Relativity"]
+    },
+    {
+      "name": "Princeton Univeristy",
+      "position": "Student Researcher",
+      #"url": "https://example.com",
+      "startDate": "2021-06-01",
+      "endDate": "2023-05-30",
+      "summary": "Researced semiconductor spin qubits with a focus on measurment techniques and processor designs." #,
+      #"highlights": ["Relativity"]
+    },
+    {
+      "name": "Harvard-Smithsonian Center for Astrophysics",
+      "position": "Student Researcher",
+      #"url": "https://example.com",
+      "startDate": "2018-06-01",
+      "endDate": "2021-10-30",
+      "summary": "Discovered the first planet candidate in an external galaxy using X-ray transits." #,
+      #"highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -151,7 +177,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Swedish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -175,18 +201,18 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  #"references": [
+  #  {
+  #    "name": "Professor John Doe",
+  #    "icon": "fa-solid fa-laptop",
+  #    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  #  },
+  #  {
+  #    "name": "Professor John Doe",
+  #    "icon": "fa-solid fa-thumbtack",
+  #    "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  #  }
+  #],
   "projects": [
     {
       "name": "Quantum Computing",
